@@ -1,11 +1,15 @@
 <h1>
-🎯 Backend Software Engineer | 💻 Java · Python · C++ · Kotlin
-🚀 Building reliable solutions
-🎧 Audio Engineer and coder — crafting tools that bridge sound and technology
-🌱 Always learning, exploring AI, DSP, and innovative backend architectures
-📍 Based in Bogotá, Colombia | 🌐 Open to global collaboration 
+
 </h1>
-<p>A passionate backend developer from Colombia, studied Systems Engineering a Music at Pontificia Universidad Javeriana, in Bogotá, Colombia.</p>
+<p>
+  <ul>
+    <li>🎯 Backend Software Engineer | 💻 Java · Python · C++ · Kotlin</li>
+    <li>🚀 Building reliable solutions</li>
+    <li>🎧 Audio Engineer and coder — crafting tools that bridge sound and technology</li>
+    <li>🌱 Always learning, exploring AI, DSP, and innovative backend architectures</li>
+    <li>📍 Based in Bogotá, Colombia | 🌐 Open to global collaboration </li>
+  </ul>
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>

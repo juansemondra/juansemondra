@@ -1,39 +1,65 @@
-<h1>
+<h1 align="center">Hi there, I'm Juan Sebastián Mondragón</h1>
 
-</h1>
-<p>
-  <ul>
-    <li>🎯 Backend Software Engineer | 💻 Java · Python · C++ · Kotlin</li>
-    <li>🚀 Building reliable solutions</li>
-    <li>🎧 Audio Engineer and coder — crafting tools that bridge sound and technology</li>
-    <li>🌱 Always learning, exploring AI, DSP, and innovative backend architectures</li>
-    <li>📍 Based in Bogotá, Colombia | 🌐 Open to global collaboration </li>
-  </ul>
+<p align="center">
+  Backend Software Engineer | 💻 Java · Python · C++ · Kotlin <br>
+  Building reliable APIs & backend solutions with Spring + MySQL <br>
+  Audio Engineer & coder — crafting tools that bridge sound and technology <br>
+  Always learning, exploring AI, DSP, and creative backend architectures <br>
+  Based in Bogotá, Colombia | 🌐 Open to global collaboration
 </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/juan-sebastian-mondragon-095793317/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/moondragonaudio/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juansemondra&show_icons=true&locale=en" alt="juansemondra" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juansemondra&" alt="juansemondra" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juansemondra&show_icons=true&locale=en&layout=compact" alt="juansemondra" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juansemondra" alt="juansemondra" /></a></p>
+
+---
+
+## About Me
+- Dual degree in **Systems Engineering** and **Music Studies (Audio Engineering)** from Pontificia Universidad Javeriana (2026 expected).  
+- Founder & CEO of **Ukumarí Records**, developing a streaming aggregation platform.  
+- Passionate about merging backend engineering with creative industries.  
+- Enjoy working with APIs, databases, and scalable backend systems while staying curious about new tech.  
+
+---
+
+## Technical Skills
+<p>
+  <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/></a>
+  <a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="42"/></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/></a>
+</p>
+
+---
+
+## Key Projects
+- **Streaming Aggregation Platform** – Backend system for direct DSP distribution, metadata handling, and royalty reporting.  
+- **Mid-Side Spectrum Analyzer** – Audio plugin in C++ (JUCE) for real-time phase and spectrum analysis.  
+- **Live Sound Analysis Tool (Android)** – Mobile app with spectrum, loudness, and phase analysis for live sound engineers.  
+- **Public Transport Administration** – Spring + Angular web app for managing buses, routes, and drivers.  
+
+---
+
+## Professional Goals
+- Build robust backend systems that power creative and data-driven applications.  
+- Expand skills in **cloud-native backend development** and **AI-powered services**.  
+- Contribute to open-source projects and collaborate with global dev teams.  
+
+---
+
+## Contact Me
+<p>
+  <a href="https://www.linkedin.com/in/sebastian-moondragon-audio/"><img src="https://img.shields.io/badge/-LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:juan.mondragon@javeriana.edu.co"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/juansemondra"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juansemondra&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juansemondra" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juansemondra&layout=compact" height="165"/>
+</p>

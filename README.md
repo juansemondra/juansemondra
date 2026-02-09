@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Juan Sebastián Mondragón</h1>
 
 <p align="center">
-  Backend Software Engineer | 💻 Java · Python · C++ · Kotlin <br>
-  Building reliable APIs & backend solutions with Spring + MySQL <br>
+  Backend Software Engineer | 💻 C++ · C <br>
+  Building reliable APIs & backend solutions <br>
   Audio Engineer & coder — crafting tools that bridge sound and technology <br>
-  Always learning, exploring AI, DSP, and creative backend architectures <br>
+  Always learning, exploring with DSP, and creative backend architectures <br>
   Based in Bogotá, Colombia | 🌐 Open to global collaboration
 </p>
 
@@ -20,14 +20,7 @@
 
 ## Technical Skills
 <p>
-  <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/></a>
   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/></a>
-  <a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="42"/></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/></a>
 </p>
 
 ---

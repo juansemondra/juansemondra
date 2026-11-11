@@ -5,7 +5,7 @@
   Building reliable APIs & backend solutions <br>
   Audio Engineer & coder — crafting tools that bridge sound and technology <br>
   Always learning, exploring with DSP, and creative backend architectures <br>
-  Based in Bogotá, Colombia | 🌐 Open to global collaboration
+  Based in Maynooth, Ireland | 🌐 Open to global collaboration
 </p>
 
 ---
